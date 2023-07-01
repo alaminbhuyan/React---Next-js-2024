@@ -1,0 +1,9 @@
+
+1) npm install react-bootstrap bootstrap
+
+===> after install add this to index.js:
+
+	import 'bootstrap/dist/css/bootstrap.css';
+	import 'bootstrap/dist/js/bootstrap.js';
+
+2) npm i react-router-dom

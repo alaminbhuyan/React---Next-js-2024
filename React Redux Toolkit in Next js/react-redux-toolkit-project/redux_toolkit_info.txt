@@ -1,0 +1,5 @@
+1) create a store
+2) Provide the redux store to react
+3) Create a redux state slice
+4) Add slice reducers to the store
+5) Use Redux State and Actions in React Components
